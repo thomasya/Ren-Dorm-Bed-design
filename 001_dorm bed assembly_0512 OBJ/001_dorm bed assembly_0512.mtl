@@ -1,0 +1,29 @@
+# Free SolidWorks .OBJ Exporter v2.0
+# num_materials: 2 
+
+newmtl 1 
+Ka  0   0   0 
+Kd  1   1   1 
+Ks  0   0   0 
+d 1.0
+Tf 1.0
+illum 2
+Ns  100 
+Ni 1.3
+map_Kd polished maple.jpg
+map_Ks polished maple spec.jpg
+map_bump polished maple bump.jpg
+
+newmtl 2 
+Ka  0   0   0 
+Kd  1   1   1 
+Ks  0   0   0 
+d 1.0
+Tf 1.0
+illum 2
+Ns  100 
+Ni 1.3
+map_Kd polished beech.jpg
+map_Ks polished beech spec.jpg
+map_bump polished beech bump.jpg
+
