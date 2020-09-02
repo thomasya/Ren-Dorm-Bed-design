@@ -1,5 +1,5 @@
 # Ren-Dorm-Bed-design
-Åwªï¤¯¹êÂNºK¥Á¦Û¥Ñ¨Ï¥Î¡A
-¨ä¥L¤H½Ğµù©ú¥X³B
+æ­¡è¿ä»å¯¦é½‹é½‹æ°‘è‡ªç”±ä½¿ç”¨ï¼Œ
+å…¶ä»–äººè«‹è¨»æ˜å‡ºè™•
 
 The files are open for all students who live in Ren or Shih dorm. 
